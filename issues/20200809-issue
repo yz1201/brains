@@ -39,3 +39,6 @@ BugLists
 	3，Resolved [org.apache.shiro.authz.UnauthenticatedException: The current Subject is not authenticated.  Access denied.]    --debug
 
 	4, ShiroUtil.getProfile(),程序还起着呢，你这空参？
+
+
+5，SC -st骨架搭建中
