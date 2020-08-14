@@ -2,16 +2,19 @@ Everyday
 一，requires 
 redis 架构 相关文档
 
-netty 视频课程 --15%
+netty 视频课程 --15% 多路复用 epoll select poll | windows iocp
 
 spring 源码
 
-AMQP0.9.1 --st
+AMQP0.9.1 --st 命令指南
 
 需求，springboot启动banner，定制个酷一点的，球球李。
 架构
 组件
-
+------   3 年及以上使用 JAVA 开发的经验，JAVA 基础扎实，理解io、多线程、集合等基础框架，了解 JVM 原理；-类装载子系统-运行时数据区-字节码执行引擎-本地方法库-本地方法接口-
+																										加载						前端编译器-解释器
+																										链接	verify prepare resolve 					后端编译器-即时编译器 
+																										初始化						GC垃圾回收器 CMS G1 ZGC 
 BugLists
 --1，Caused by: org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'userDetailsService': Requested bean is currently in creation: Is there an unresolvable circular reference?
 	循环依赖/注入的问题
