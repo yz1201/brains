@@ -1,0 +1,16 @@
+石头剪刀布模拟器
+
+get 请求到了
+
+GamaRule
+
+[s,j,b]
+
+player[b,j,s]
+
+dbdj1201[b,j,s]
+
+List<Map<,>>
+
+Map<p,d>=Result
+
