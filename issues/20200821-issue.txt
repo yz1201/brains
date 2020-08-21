@@ -1,0 +1,81 @@
+Everyday
+一，requires 
+redis 架构 相关文档
+
+netty 视频课程 --15% 多路复用 epoll select poll | windows iocp
+
+spring 源码
+
+AMQP0.9.1 --st 命令指南
+
+--需求，springboot启动banner，定制个酷一点的，球球李。 --done，看起来麻烦，其实有插件或者工具，easy
+
+定制计划 -- maybe ten years 
+方向：
+	网络 网络协议，socket编程 进/线程模型 OSI TCP/IP
+	io模型 
+	计组/os
+	linux内核
+	
+基础
+	数据结构
+	算法
+	设计模式
+编程语言
+	指令集--》CISC RISC
+	机器语言
+	汇编语言
+	高级：c/c++/java/js
+	前端 了解
+java --
+	框架
+		集合/高并发/Netty
+		业务框架
+	
+	分布式/微服务
+	
+	底层
+		JVM hotspot 
+		
+数据库
+	mysql
+	oracle
+架构
+组件
+------   3 年及以上使用 JAVA 开发的经验，JAVA 基础扎实，理解io、多线程、集合等基础框架，了解 JVM 原理；-类装载子系统-运行时数据区-字节码执行引擎-本地方法库-本地方法接口-
+																										加载						前端编译器-解释器
+																										链接	verify prepare resolve 					后端编译器-即时编译器 
+																										初始化						GC垃圾回收器 CMS G1 ZGC 
+																										
+-------------------------------------------------------------------------------------------------------------------------------------
+work - temp 
+springboot启动流程
+	自动装配过程
+	web开发  git-flow
+	import？spring架构赏析
+	
+netty源码架构
+redis业务通用---》源码架构
+大流量功能模块
+
+tomcat三大组件
+spring源码通读
+拦截器
+-----------------------------------------------------------------------------------------------------------------------------------	----------------	-			---------------------------																					
+BugLists
+--1，Caused by: org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'userDetailsService': Requested bean is currently in creation: Is there an unresolvable circular reference?
+	循环依赖/注入的问题
+	从静态springcontext上下文中直接拿bean，别再注入了。 
+	解释：SecurityConfig中依赖 UmsAminService跟UserDeatilService ，实例化的时候从缓存中取不到这两个bean，便进行这两个bean的实例化，但同时UmsAdminServiceImpl也依赖UserDetailService，所以有此异常。
+2，版本更新到springboot2.3.0
+	elasticsearch api及使用的运输类改变
+	校验hibernate validate类不再于springbootwebstarter自动导入
+	swagger2 3.0.0版本做认证的api已经变了，想尝鲜就得重新配置
+-- 3，elasticsearch 7.6.0文档+集成操作 集成springboot2.3.0 api文档使用哪个运输类。做什么功能，建立索引库，标记分词字段，ik_max_word ik_smart 基础查询，做聚合。新的api 配置 ，堆内存-Xms -Xmx
+	版本选型问题 rabbitmq7.6.0 mongodb 4.2.8 常用api
+	jwt
+	springsecurity  认证流程？
+	shiro realm Subject SecurityManager  + redis  单点登录/限制登录次数
+	认证，角色授权
+4，just for test take a rest!
+5,xiuxi yitian ,butaiyinggai
