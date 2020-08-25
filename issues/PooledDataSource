@@ -1,0 +1,142 @@
+/*
+ * 传递一个用户名和密码，从连接池中返回可用的PooledConnection
+ */
+private PooledConnection popConnection(String username, String password) throws SQLException
+{
+    boolean countedWait = false;
+    PooledConnection conn = null;
+    long t = System.currentTimeMillis();
+    int localBadConnectionCount = 0;
+ 
+    while (conn == null)
+    {
+        synchronized (state)
+        {
+            if (state.idleConnections.size() > 0)
+            {
+                // 连接池中有空闲连接，取出第一个
+                conn = state.idleConnections.remove(0);
+                if (log.isDebugEnabled())
+                {
+                    log.debug("Checked out connection " + conn.getRealHashCode() + " from pool.");
+                }
+            }
+            else
+            {
+                // 连接池中没有空闲连接，则取当前正在使用的连接数小于最大限定值，
+                if (state.activeConnections.size() < poolMaximumActiveConnections)
+                {
+                    // 创建一个新的connection对象
+                    conn = new PooledConnection(dataSource.getConnection(), this);
+                    @SuppressWarnings("unused")
+                    //used in logging, if enabled
+                    Connection realConn = conn.getRealConnection();
+                    if (log.isDebugEnabled())
+                    {
+                        log.debug("Created connection " + conn.getRealHashCode() + ".");
+                    }
+                }
+                else
+                {
+                    // Cannot create new connection 当活动连接池已满，不能创建时，取出活动连接池的第一个，即最先进入连接池的PooledConnection对象
+                    // 计算它的校验时间，如果校验时间大于连接池规定的最大校验时间，则认为它已经过期了，利用这个PoolConnection内部的realConnection重新生成一个PooledConnection
+                    //
+                    PooledConnection oldestActiveConnection = state.activeConnections.get(0);
+                    long longestCheckoutTime = oldestActiveConnection.getCheckoutTime();
+                    if (longestCheckoutTime > poolMaximumCheckoutTime)
+                    {
+                        // Can claim overdue connection
+                        state.claimedOverdueConnectionCount++;
+                        state.accumulatedCheckoutTimeOfOverdueConnections += longestCheckoutTime;
+                        state.accumulatedCheckoutTime += longestCheckoutTime;
+                        state.activeConnections.remove(oldestActiveConnection);
+                        if (!oldestActiveConnection.getRealConnection().getAutoCommit())
+                        {
+                            oldestActiveConnection.getRealConnection().rollback();
+                        }
+                        conn = new PooledConnection(oldestActiveConnection.getRealConnection(), this);
+                        oldestActiveConnection.invalidate();
+                        if (log.isDebugEnabled())
+                        {
+                            log.debug("Claimed overdue connection " + conn.getRealHashCode() + ".");
+                        }
+                    }
+                    else
+                    {
+ 
+                        //如果不能释放，则必须等待有
+                        // Must wait
+                        try
+                        {
+                            if (!countedWait)
+                            {
+                                state.hadToWaitCount++;
+                                countedWait = true;
+                            }
+                            if (log.isDebugEnabled())
+                            {
+                                log.debug("Waiting as long as " + poolTimeToWait + " milliseconds for connection.");
+                            }
+                            long wt = System.currentTimeMillis();
+                            state.wait(poolTimeToWait);
+                            state.accumulatedWaitTime += System.currentTimeMillis() - wt;
+                        }
+                        catch (InterruptedException e)
+                        {
+                            break;
+                        }
+                    }
+                }
+            }
+ 
+            //如果获取PooledConnection成功，则更新其信息
+ 
+            if (conn != null)
+            {
+                if (conn.isValid())
+                {
+                    if (!conn.getRealConnection().getAutoCommit())
+                    {
+                        conn.getRealConnection().rollback();
+                    }
+                    conn.setConnectionTypeCode(assembleConnectionTypeCode(dataSource.getUrl(), username, password));
+                    conn.setCheckoutTimestamp(System.currentTimeMillis());
+                    conn.setLastUsedTimestamp(System.currentTimeMillis());
+                    state.activeConnections.add(conn);
+                    state.requestCount++;
+                    state.accumulatedRequestTime += System.currentTimeMillis() - t;
+                }
+                else
+                {
+                    if (log.isDebugEnabled())
+                    {
+                        log.debug("A bad connection (" + conn.getRealHashCode() + ") was returned from the pool, getting another connection.");
+                    }
+                    state.badConnectionCount++;
+                    localBadConnectionCount++;
+                    conn = null;
+                    if (localBadConnectionCount > (poolMaximumIdleConnections + 3))
+                    {
+                        if (log.isDebugEnabled())
+                        {
+                            log.debug("PooledDataSource: Could not get a good connection to the database.");
+                        }
+                        throw new SQLException("PooledDataSource: Could not get a good connection to the database.");
+                    }
+                }
+            }
+        }
+ 
+    }
+ 
+    if (conn == null)
+    {
+        if (log.isDebugEnabled())
+        {
+            log.debug("PooledDataSource: Unknown severe error condition.  The connection pool returned a null connection.");
+        }
+        throw new SQLException("PooledDataSource: Unknown severe error condition.  The connection pool returned a null connection.");
+    }
+ 
+    return conn;
+}
