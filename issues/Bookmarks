@@ -1,0 +1,1054 @@
+{
+   "checksum": "f5a6a0414f9974615c9095492bef4ca6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13241603885830755",
+               "guid": "fb921cf4-c753-4cc9-b40f-6c72304fb2ad",
+               "id": "363",
+               "name": "mongodb的下载安装以及robomongo(网盘)的下载安装_weixin_44321116的博客-CSDN博客_安装robomongo客户端百度网盘",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_44321116/article/details/105311278"
+            }, {
+               "date_added": "13241669510692619",
+               "guid": "0f8d640b-5734-4f1c-ba51-0e0891646a5f",
+               "id": "367",
+               "name": "SpringCloud 微服务组件 mica 2.0.5-GA 发布，添加对sentinel、undertow指标收集 - 新闻资讯 - SpringBoot中文社区",
+               "type": "url",
+               "url": "https://springboot.io/t/topic/2403"
+            }, {
+               "date_added": "13241669945315185",
+               "guid": "31bd42b2-c826-4bc6-9755-ddf8e942c858",
+               "id": "368",
+               "name": "Spring Initializr",
+               "type": "url",
+               "url": "https://start.springboot.io/"
+            }, {
+               "date_added": "13241669991380469",
+               "guid": "564fc33c-7f61-4919-832e-07f919877728",
+               "id": "369",
+               "name": "Start Your Java Journey on Aliyun",
+               "type": "url",
+               "url": "https://start.aliyun.com/"
+            }, {
+               "date_added": "13241673172982381",
+               "guid": "59bece77-160f-429b-8072-d97cae3b8abb",
+               "id": "377",
+               "name": "Releases · lework/RedisDesktopManager-Windows",
+               "type": "url",
+               "url": "https://github.com/lework/RedisDesktopManager-Windows/releases"
+            }, {
+               "date_added": "13241695828323544",
+               "guid": "7e0686ce-8baa-4306-8858-f7a0358b7cb1",
+               "id": "385",
+               "name": "免费的编程中文书籍 | 终身编程者社区",
+               "type": "url",
+               "url": "https://learnku.com/articles/41750#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"
+            }, {
+               "date_added": "13241698255694769",
+               "guid": "92e14cd6-869a-4536-8148-22dbceb12698",
+               "id": "386",
+               "name": "markdown-simple-world/1.md at master · wizardforcel/markdown-simple-world",
+               "type": "url",
+               "url": "https://github.com/wizardforcel/markdown-simple-world/blob/master/1.md"
+            }, {
+               "date_added": "13241770742989810",
+               "guid": "89e4324f-8b6e-44c7-9856-7247924ee35b",
+               "id": "389",
+               "name": "华为开源镜像站_软件开发服务_华为云",
+               "type": "url",
+               "url": "https://mirrors.huaweicloud.com/"
+            }, {
+               "date_added": "13242471931605205",
+               "guid": "a376e26a-5ba8-4ab2-b85b-7fb113b540d3",
+               "id": "425",
+               "name": "网页模板,网站模板,DIV+CSS模板,企业网站模板下载-模板之家",
+               "type": "url",
+               "url": "http://www.cssmoban.com/"
+            }, {
+               "date_added": "13242556857508723",
+               "guid": "33939af1-496c-4cc7-931a-e7da700d4b1f",
+               "id": "432",
+               "name": "ShowDoc",
+               "type": "url",
+               "url": "https://www.showdoc.com.cn/"
+            }, {
+               "date_added": "13242704096983625",
+               "guid": "285b9740-a09e-48b6-8a3d-c597d33e4a7e",
+               "id": "444",
+               "name": "Spring 官方文档（中文翻译） - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/b3da0c8a22fe"
+            }, {
+               "date_added": "13242704898202249",
+               "guid": "0032ae98-d5ac-4cc7-b6a3-2edd6ac03b5c",
+               "id": "445",
+               "name": "Editor.md - 开源在线 Markdown 编辑器",
+               "type": "url",
+               "url": "https://pandao.github.io/editor.md/#download"
+            } ],
+            "date_added": "13240681398525237",
+            "date_modified": "13242705413211380",
+            "guid": "c2b2576b-10de-4ed4-8611-2ba203641429",
+            "id": "285",
+            "name": "resources",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240993566481501",
+               "guid": "b41308ab-2c63-4fae-9ef7-a71e9c1e41ad",
+               "id": "308",
+               "name": "Shiro 报错 No SecurityManager accessible（汇总）_紫羽风的博客-CSDN博客_no securitymanager accessible to the calling code",
+               "type": "url",
+               "url": "https://blog.csdn.net/happylee6688/article/details/43304247"
+            }, {
+               "date_added": "13240995837581820",
+               "guid": "3026d989-2682-438a-850e-d987cd6168c5",
+               "id": "309",
+               "name": "Springboot+Shiro+Redis 整合（踩坑-整不明白你打我）_Lycode-CSDN博客_redis shiro hashedcredentialsmatcher",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_31897023/article/details/89082541"
+            }, {
+               "date_added": "13241237726668094",
+               "guid": "bb7e5adb-3bc2-4ca3-adb0-3b82cbc3aa84",
+               "id": "334",
+               "name": "Shiro源码-创建subject_caiqianzhigai0859的博客-CSDN博客_shiro createsubject",
+               "type": "url",
+               "url": "https://blog.csdn.net/caiqianzhigai0859/article/details/82841345"
+            }, {
+               "date_added": "13241406726767889",
+               "guid": "ff3531c9-059b-4fee-ac02-91203813f1cb",
+               "id": "342",
+               "name": "springboot+shiro+jwt实现登录 - 一步一高 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/red-star/p/12121941.html"
+            }, {
+               "date_added": "13241579906442807",
+               "guid": "f2202be6-1a32-49cb-b3c8-4df4d1dcd388",
+               "id": "357",
+               "name": "根据二叉树前序遍历和中序遍历的结果输出后序遍历(java) - 心中的利剑：HTML5 Canvas游戏动画（JavaScript） - ITeye博客",
+               "type": "url",
+               "url": "https://www.iteye.com/blog/128kj-1692248"
+            }, {
+               "date_added": "13241672189958048",
+               "guid": "c53f0b9b-1f91-4fab-90ec-21664d1d4083",
+               "id": "373",
+               "name": "Spring Import 三种用法与源码解读_everyok的博客-CSDN博客_spring import",
+               "type": "url",
+               "url": "https://blog.csdn.net/everyok/article/details/81350905?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.add_param_isCf&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.add_param_isCf"
+            } ],
+            "date_added": "13240681437221919",
+            "date_modified": "13241688564440706",
+            "guid": "91e035a6-f6eb-4c78-9d5d-6b0dc4fdb54a",
+            "id": "288",
+            "name": "debug",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240916565688859",
+               "guid": "55d79827-6421-43f4-ab42-1e1400f0be89",
+               "id": "301",
+               "name": "关于springboot 从controller返回到html页面_memory的博客-CSDN博客_springboot 返回html",
+               "type": "url",
+               "url": "https://blog.csdn.net/zmemorys/article/details/87275032?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase"
+            }, {
+               "date_added": "13241159044912095",
+               "guid": "4f447432-d5c2-4703-b7cd-4e3017ff6093",
+               "id": "325",
+               "name": "Apache Shiro 1.4.0 RC2 发布，权限控制框架 - OSCHINA",
+               "type": "url",
+               "url": "https://www.oschina.net/news/79025/apache-shiro-1-4-0-rc2"
+            }, {
+               "date_added": "13241172374828738",
+               "guid": "0ff2c9aa-549c-4747-907c-fc29b0647080",
+               "id": "329",
+               "name": "踩坑记录-前端请求如果携带Cookie信息，那么后端Access-Control-Allow-Origin不能为 * - 个人文章 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000015552557"
+            }, {
+               "date_added": "13241172421670397",
+               "guid": "20b071b6-0edc-4d5e-82f7-12a7843e4fbc",
+               "id": "330",
+               "name": "HTTP访问控制（CORS） - HTTP | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS"
+            }, {
+               "date_added": "13241186456074529",
+               "guid": "93c6cca6-cdce-48f6-8e2e-752abb02862f",
+               "id": "332",
+               "name": "springboot + shiro + jwt登录成功后再请求接口时报错，接口返回401 Unauthorized - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/ac38ac9c1c38"
+            }, {
+               "date_added": "13241257353342459",
+               "guid": "b6fae747-9431-4c32-92f4-5e7d02403e63",
+               "id": "338",
+               "name": "JWT的Java使用 (JJWT)_qq_37636695的博客-CSDN博客_jwts.builder()",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_37636695/article/details/79265711"
+            }, {
+               "date_added": "13241858375315157",
+               "guid": "72699be6-4164-4e71-b382-ab6c2efe4576",
+               "id": "397",
+               "name": "netty入门一（新手上路，高手绕道）_guo20082200的博客-CSDN博客_netty入门",
+               "type": "url",
+               "url": "https://blog.csdn.net/guo20082200/article/details/85726845"
+            }, {
+               "date_added": "13242275991364189",
+               "guid": "9fd393ff-7156-49a7-85c3-b016b3b5f860",
+               "id": "412",
+               "name": "maven scope属性说明 - 傻不拉几猫 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/kingsonfu/p/10342892.html"
+            }, {
+               "date_added": "13242276242116479",
+               "guid": "92b67e50-6600-44ba-b3ea-d9adfae7cdfc",
+               "id": "413",
+               "name": "深入理解Spring的ImportSelector接口 - 聂晨 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/niechen/p/9262452.html"
+            }, {
+               "date_added": "13242278194437486",
+               "guid": "a7bac655-1fc6-4602-bd0e-264b73fb82a2",
+               "id": "414",
+               "name": "Servlet、Filter、Listener深入理解_void-CSDN博客_servlet filter listener",
+               "type": "url",
+               "url": "https://blog.csdn.net/sunxianghuang/article/details/52107376"
+            }, {
+               "date_added": "13242656072354956",
+               "guid": "9494a83e-85cd-4f05-af43-ee78e4cdfb94",
+               "id": "439",
+               "name": "spring的@Transactional注解详细用法 - wangfg - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/wangfg/p/9475788.html"
+            }, {
+               "date_added": "13242793244876773",
+               "guid": "8be4c545-8092-44a6-bb62-930688243652",
+               "id": "450",
+               "name": "Dubbo 各版本总结与升级建议 · Issue #5669 · apache/dubbo",
+               "type": "url",
+               "url": "https://github.com/apache/dubbo/issues/5669"
+            }, {
+               "date_added": "13242808468964499",
+               "guid": "95e35bf0-31bc-4a45-8196-1f486c062189",
+               "id": "454",
+               "name": "《Apache Zookeeper 官方文档》-4 ZooKeeper编程指南 | 并发编程网 – ifeve.com",
+               "type": "url",
+               "url": "http://ifeve.com/zookeeperprogrammers/"
+            }, {
+               "date_added": "13242814465611215",
+               "guid": "15e8f3ab-3293-4bc6-b828-73588d534474",
+               "id": "457",
+               "name": "git完整总结 - 个人文章 - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000019438610?utm_source=sf-related"
+            }, {
+               "date_added": "13242826805257990",
+               "guid": "2ccef880-8595-4c10-8ed0-d089f8ee2e06",
+               "id": "459",
+               "name": "MySQL的JDBC驱动源码解析_走自己的路-CSDN博客_mysql driver 源码",
+               "type": "url",
+               "url": "https://blog.csdn.net/c929833623lvcha/article/details/44517245"
+            }, {
+               "date_added": "13242894482634489",
+               "guid": "ab94f55e-82a2-4734-a6f6-df9265b6a15a",
+               "id": "463",
+               "name": "accept和select的区别 - 谁说我是二师兄 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/zhchy89/p/8850048.html"
+            } ],
+            "date_added": "13240681430525606",
+            "date_modified": "13243068597449757",
+            "guid": "cbf5cf1d-eba2-4a6c-b378-c3c34bd7fd71",
+            "id": "287",
+            "name": "info",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240910099906932",
+               "guid": "1bfab4c5-6b58-443a-846d-362ac350caea",
+               "id": "298",
+               "name": "使用Idea设置默认的作者日期模板及修改波浪线_陈福国的博客-CSDN博客_idea设置默认作者",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_45112637/article/details/104474622?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159643640419724848327589%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159643640419724848327589&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~rank_business_v1-2-104474622.ecpm_v3_rank_business_v1&utm_term=idea+%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF%E6%97%A5%E6%9C%9F%E4%BD%9C%E8%80%85&spm=1018.2118.3001.4187"
+            }, {
+               "date_added": "13240914808687015",
+               "guid": "23cc4022-1a8d-4a32-8792-ccd05db025ac",
+               "id": "300",
+               "name": "SpringBoot整合thymeleaf_haozz的博客-CSDN博客_springboot配置thymeleaf",
+               "type": "url",
+               "url": "https://blog.csdn.net/hz_940611/article/details/80732285"
+            }, {
+               "date_added": "13241002833607898",
+               "guid": "0fa1f0b7-b353-4c49-9f8f-6499b80e5cae",
+               "id": "311",
+               "name": "可视化创建vue-cli项目_夜阑珊妖妖-CSDN博客_vue可视化创建项目",
+               "type": "url",
+               "url": "https://blog.csdn.net/ws19900201/article/details/99948384?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase"
+            }, {
+               "date_added": "13241088722015199",
+               "guid": "8d05c32f-fa7b-48f9-a1d7-0201517b9501",
+               "id": "319",
+               "name": "VsCode使用教程 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/11554732b323"
+            }, {
+               "date_added": "13241096180697038",
+               "guid": "300b9a6b-3211-4a29-a080-64b84562d015",
+               "id": "320",
+               "name": "vue-cli（vue脚手架）详细教程 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/312f9e23092f"
+            }, {
+               "date_added": "13241150240504615",
+               "guid": "8d9f82b5-bc9e-4abb-a957-ca973e3e4358",
+               "id": "322",
+               "name": "judasn/IntelliJ-IDEA-Tutorial: IntelliJ IDEA 简体中文专题教程",
+               "type": "url",
+               "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial"
+            }, {
+               "date_added": "13241426264161783",
+               "guid": "22215c52-7a39-44ff-8bfd-5680d6f48c9f",
+               "id": "345",
+               "name": "MybatisPlus 根据模板生成代码(包含swagger2注解)_BUse的博客-CSDN博客_tk.mybatis生成swagger注解",
+               "type": "url",
+               "url": "https://blog.csdn.net/u014704612/article/details/104661478/"
+            }, {
+               "date_added": "13241427089286017",
+               "guid": "d22307a1-1bef-4ecf-94be-71599908e6c1",
+               "id": "346",
+               "name": "README.md · kezhan/mybatis-plus-study - 码云 - 开源中国",
+               "type": "url",
+               "url": "https://gitee.com/miyahejuzi/mybatis-plus-study/blob/master/README.md"
+            }, {
+               "date_added": "13241429009228955",
+               "guid": "9311875f-0a94-405a-866b-74d950c31829",
+               "id": "347",
+               "name": "swagger2 注解说明_码神龙-CSDN博客_swagger datatype",
+               "type": "url",
+               "url": "https://blog.csdn.net/xiaojin21cen/article/details/78654652"
+            }, {
+               "date_added": "13241521265734528",
+               "guid": "9ec5a522-d52a-47e6-93eb-493fc35923dc",
+               "id": "353",
+               "name": "SpringBoot使用Swagger2出现Unable to infer base url. - 青枫浦上",
+               "type": "url",
+               "url": "https://zhaoxuyang.com/springboot%E4%BD%BF%E7%94%A8swagger2%E5%87%BA%E7%8E%B0unable-to-infer-base-url-this-is-common-when-using-dynamic-servlet-registration-or-when-the-api-is-behind-an-api-gateway/?replytocom=364"
+            }, {
+               "date_added": "13241598207302334",
+               "guid": "f66308c1-19cc-4ac9-971c-efebaa0b3ce0",
+               "id": "359",
+               "name": "Devops - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/c5d002cf25b9"
+            }, {
+               "date_added": "13241598413133453",
+               "guid": "103c5cf6-ec95-4107-980b-675c1f85aae3",
+               "id": "360",
+               "name": "什么是敏捷开发？_好记性不如烂笔头-CSDN博客_敏捷开发",
+               "type": "url",
+               "url": "https://blog.csdn.net/csdn15556927540/article/details/90712308"
+            }, {
+               "date_added": "13241598843539478",
+               "guid": "6efdb9b1-c7e0-4df6-9fc1-53e3644e370c",
+               "id": "361",
+               "name": "你大概走了假敏捷：认真说说敏捷的实现和问题（手绘版） - 云+社区 - 腾讯云",
+               "type": "url",
+               "url": "https://cloud.tencent.com/developer/article/1004881"
+            }, {
+               "date_added": "13241666291673109",
+               "guid": "9eba7be6-30f7-42c3-a07c-3add8c3ab3e7",
+               "id": "365",
+               "name": "使用Robo 3T操作MongoDB数据库_君当自强-CSDN博客_robo 3t连接mongodb",
+               "type": "url",
+               "url": "https://blog.csdn.net/baidu_39298625/article/details/99654596?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf"
+            }, {
+               "date_added": "13241669426818081",
+               "guid": "cb066dfb-b4e7-492c-a2a9-aef64b50c738",
+               "id": "366",
+               "name": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+               "type": "url",
+               "url": "https://www.runoob.com/"
+            }, {
+               "date_added": "13241670074079561",
+               "guid": "96a66803-1a28-49d0-b8f0-c8720cd5f73b",
+               "id": "370",
+               "name": "SpringBoot学习之整合Swagger（springfox3.0） - 技术交流 - SpringBoot中文社区",
+               "type": "url",
+               "url": "https://springboot.io/t/topic/2385"
+            }, {
+               "date_added": "13241670990102024",
+               "guid": "15864a74-f9ce-4290-9e46-33c68a1abae2",
+               "id": "371",
+               "name": "BSON的介绍及BSON与JSON的区别_浮生一梦-CSDN博客_bson",
+               "type": "url",
+               "url": "https://blog.csdn.net/m0_38110132/article/details/77716792"
+            }, {
+               "date_added": "13241671011958596",
+               "guid": "64f61fc1-ac1a-4890-9d55-1c10ec3b5a0c",
+               "id": "372",
+               "name": "MongoDB 概念解析 | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/mongodb/mongodb-databases-documents-collections.html"
+            }, {
+               "date_added": "13241672691006959",
+               "guid": "fe1ce543-0e75-489d-aab2-935d592ade62",
+               "id": "374",
+               "name": "Nginx的跨域配置 - 技术交流 - SpringBoot中文社区",
+               "type": "url",
+               "url": "https://springboot.io/t/topic/2210"
+            }, {
+               "date_added": "13241672890221585",
+               "guid": "3a34a009-efc0-47fe-980f-22423753e566",
+               "id": "375",
+               "name": "rocketmq/RocketMQ_Example.md at master · apache/rocketmq",
+               "type": "url",
+               "url": "https://github.com/apache/rocketmq/blob/master/docs/cn/RocketMQ_Example.md"
+            }, {
+               "date_added": "13241673044810499",
+               "guid": "e96fe40e-0c96-46c8-8dd9-643b8828406d",
+               "id": "376",
+               "name": "spring boot 动态注入bean - 技术交流 - SpringBoot中文社区",
+               "type": "url",
+               "url": "https://springboot.io/t/topic/2363"
+            }, {
+               "date_added": "13241686634985339",
+               "guid": "d12c8c8d-59b2-436b-a0e1-ebee9156e042",
+               "id": "380",
+               "name": "SpringBoot集成Elasticsearch7.4 实战（二） - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/acc8e86cc772"
+            }, {
+               "date_added": "13241688561065723",
+               "guid": "94e65793-4b20-4dd8-946e-ca9194ff7249",
+               "id": "381",
+               "name": "Elasticsearch 升级 7.x 版本后，我感觉掉坑里了！_Java6888的博客-CSDN博客_elasticsearch 7.7.1 elasticsearchresttemplate 不主持l",
+               "type": "url",
+               "url": "https://blog.csdn.net/Java6888/article/details/107820067"
+            }, {
+               "date_added": "13241693558983961",
+               "guid": "21595a1c-78e6-4642-8be0-a1065b337eca",
+               "id": "383",
+               "name": "实现一个 Redis 分布式锁 | Java 技术论坛",
+               "type": "url",
+               "url": "https://learnku.com/articles/47769"
+            }, {
+               "date_added": "13241755320244628",
+               "guid": "69bb6e77-146f-4e7e-9211-4776abe9a35e",
+               "id": "388",
+               "name": "vue-cli3.x - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/06a9f112867d"
+            }, {
+               "date_added": "13241845709939770",
+               "guid": "6238d9f1-5e11-4092-964b-75e517350cda",
+               "id": "396",
+               "name": "Log4j.properties配置详解 - 莫逸风 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/zhangguangxiang/p/12007924.html"
+            }, {
+               "date_added": "13241863795534085",
+               "guid": "37336039-80d7-484a-bda6-4b71bc4e244a",
+               "id": "398",
+               "name": "还在使用MyBatis Generator？试试这个工具 - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/6860652082186813448"
+            }, {
+               "date_added": "13241878560380176",
+               "guid": "d3a78ac6-2ef1-424d-8fc2-f238fa5f4a08",
+               "id": "402",
+               "name": "MyBatis mappers元素标签及其属性、配置 - 凉心、惊梦 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/hyjh/p/11840976.html"
+            }, {
+               "date_added": "13242305492230926",
+               "guid": "ff5407ba-c2c7-4b43-adff-7f78ed7407dd",
+               "id": "421",
+               "name": "适配器模式的理解和示例 - Other+ - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/milicool/p/11278617.html"
+            }, {
+               "date_added": "13242465905384564",
+               "guid": "a54a8cf6-27b0-4fc6-9800-4918421077c9",
+               "id": "423",
+               "name": "Netty学习路线总结 - 潦草白纸 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/snifferhu/p/7337425.html"
+            }, {
+               "date_added": "13242532875329515",
+               "guid": "12e54e58-876d-42ac-a071-6199a647bf8f",
+               "id": "428",
+               "name": "druid/druid-spring-boot-starter at master · alibaba/druid",
+               "type": "url",
+               "url": "https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter"
+            }, {
+               "date_added": "13242535226558396",
+               "guid": "79e5d958-e41b-4363-9c5f-4b2a23e57081",
+               "id": "429",
+               "name": "spring5 源码深度解析-----Spring的整体架构和环境搭建 - chen_hao - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/java-chen-hao/p/11046190.html"
+            }, {
+               "date_added": "13242637414076090",
+               "guid": "24d16a32-2af2-4c72-9698-3479114dc7cc",
+               "id": "437",
+               "name": "一个java对象占多少个字节？_qlmmys的博客-CSDN博客_对象头占多少字节",
+               "type": "url",
+               "url": "https://blog.csdn.net/qlmmys/article/details/53213857"
+            }, {
+               "date_added": "13242466059566119",
+               "guid": "ad081cac-439e-43bc-8551-2e93a95c5819",
+               "id": "424",
+               "name": "第一个 Netty 应用 · Essential Netty in Action 《Netty 实战(精髓)》",
+               "type": "url",
+               "url": "https://waylau.gitbooks.io/essential-netty-in-action/content/GETTING%20STARTED/Your%20first%20Netty%20application.html"
+            }, {
+               "date_added": "13241873896747420",
+               "guid": "9617f42d-0553-43e3-88a4-c165672b76b6",
+               "id": "400",
+               "name": "这可能是目前最透彻的Netty原理架构解析_qq_43068016的博客-CSDN博客_netty三层架构",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_43068016/article/details/89181210"
+            }, {
+               "date_added": "13242794345625547",
+               "guid": "397a7b95-8b85-456e-a878-9ab3ea81db7a",
+               "id": "451",
+               "name": "CentOS7安装zookeeper_心有山海静而无边-CSDN博客_centos7 zookeeper",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_38591756/article/details/82828993"
+            }, {
+               "date_added": "13242808367545568",
+               "guid": "0545b0ca-f715-4209-b50e-9ed31e5d4575",
+               "id": "453",
+               "name": "zookeeper做成windows服务启动_岁月不饶人，我亦未曾饶过岁月-CSDN博客_zookeeper windows 服务",
+               "type": "url",
+               "url": "https://blog.csdn.net/woshiwangdaye/article/details/89708810?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-1&spm=1001.2101.3001.4242"
+            }, {
+               "date_added": "13242808543799151",
+               "guid": "c468df6e-3a4e-4b42-8d70-3a53543fb30c",
+               "id": "455",
+               "name": "浓缩版Zookeeper3.5官网文档。 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/79800337"
+            }, {
+               "date_added": "13242811015537002",
+               "guid": "4d1a81dc-3dc5-4dff-8442-1c098da8a4be",
+               "id": "456",
+               "name": "Zookeeper使用入门记录 - 斐波那切 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/youngchaolin/p/12905023.html#_label2"
+            }, {
+               "date_added": "13242559524730593",
+               "guid": "697c8f1c-eba4-4d87-a251-49f50acdab15",
+               "id": "433",
+               "name": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzg2NTAzMTExNg==&hid=1&sn=3247dca1433a891523d9e4176c90c499",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzg2NTAzMTExNg==&hid=1&sn=3247dca1433a891523d9e4176c90c499"
+            } ],
+            "date_added": "13240681445302824",
+            "date_modified": "13242812879353613",
+            "guid": "cfe0ee38-fe6d-4263-8f5d-bc6c05038ed0",
+            "id": "289",
+            "name": "lesson",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240922452073510",
+               "guid": "32fc247a-c7ed-459e-a646-4a10d038fc71",
+               "id": "302",
+               "name": "入门和安装 - Hutool参考文档",
+               "type": "url",
+               "url": "https://www.hutool.cn/docs/#/"
+            }, {
+               "date_added": "13240927231856996",
+               "guid": "b85888db-883c-427e-a190-87c809c50905",
+               "id": "305",
+               "name": "安装 | MyBatis-Plus",
+               "type": "url",
+               "url": "https://mp.baomidou.com/guide/install.html"
+            }, {
+               "date_added": "13240976852715887",
+               "guid": "ea757274-5c61-4329-b3f0-9751151fd049",
+               "id": "307",
+               "name": "shiro-redis/README.md at master · alexxiyang/shiro-redis",
+               "type": "url",
+               "url": "https://github.com/alexxiyang/shiro-redis/blob/master/docs/README.md#spring-boot-starter"
+            }, {
+               "date_added": "13241063281977647",
+               "guid": "019e4077-bf27-4ab4-9651-971fdf912c99",
+               "id": "316",
+               "name": "npm 中文文档 | npm 中文网",
+               "type": "url",
+               "url": "https://www.npmjs.cn/"
+            }, {
+               "date_added": "13241087407164284",
+               "guid": "ab2eb609-19ba-4bcc-a3c6-af5334ad4020",
+               "id": "318",
+               "name": "Running Visual Studio Code on macOS",
+               "type": "url",
+               "url": "https://code.visualstudio.com/docs/setup/mac"
+            }, {
+               "date_added": "13241157837767858",
+               "guid": "610685c3-1c24-43a3-adcd-f0d681758738",
+               "id": "324",
+               "name": "Apache Shiro | Simple. Java. Security.",
+               "type": "url",
+               "url": "http://shiro.apache.org/documentation.html"
+            }, {
+               "date_added": "13241527828892445",
+               "guid": "7719631a-a8ba-40c5-9e2c-f2e7c9448e1a",
+               "id": "355",
+               "name": "开发者必备Docker命令",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/d_CuljDTJq680NTndAay8g"
+            }, {
+               "date_added": "13241690493185927",
+               "guid": "bb0bd174-b562-4fb4-8f13-3c73e5d0ff22",
+               "id": "382",
+               "name": "《Elasticsearch中文文档》 | Elasticsearch 技术论坛",
+               "type": "url",
+               "url": "https://learnku.com/docs/elasticsearch73/7.3"
+            }, {
+               "date_added": "13242187528939542",
+               "guid": "0e4494a1-d0ad-452e-bae4-a9a9d371c634",
+               "id": "407",
+               "name": "mybatis – MyBatis 3 | XML 映射器",
+               "type": "url",
+               "url": "https://mybatis.org/mybatis-3/zh/sqlmap-xml.html"
+            }, {
+               "date_added": "13242289624294053",
+               "guid": "55746eb2-9773-49e1-9629-56c19e53f597",
+               "id": "415",
+               "name": "API — Vue.js",
+               "type": "url",
+               "url": "https://cn.vuejs.org/v2/api/"
+            }, {
+               "date_added": "13242291902258125",
+               "guid": "31f84291-f09c-4176-a820-e4df19e3b482",
+               "id": "417",
+               "name": "Introduction · Spring Boot 中文文档",
+               "type": "url",
+               "url": "http://doc.springboot.io/"
+            }, {
+               "date_added": "13242292256517509",
+               "guid": "6048d8da-2ea1-46ba-9675-9e7a165ee0ca",
+               "id": "418",
+               "name": "Spring Boot Features",
+               "type": "url",
+               "url": "https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-webservices"
+            }, {
+               "date_added": "13242791732578764",
+               "guid": "cb4747c3-5e93-486e-973a-5b897f11a820",
+               "id": "449",
+               "name": "背景",
+               "type": "url",
+               "url": "http://dubbo.apache.org/zh-cn/docs/user/preface/background.html"
+            }, {
+               "date_added": "13242879155887210",
+               "guid": "07891b68-855f-47f0-b209-53c9c233d1f6",
+               "id": "462",
+               "name": "Spring Framework Documentation",
+               "type": "url",
+               "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/"
+            }, {
+               "date_added": "13241778470476150",
+               "guid": "c98b09a5-f910-4e4d-9085-3ea4ce71e169",
+               "id": "391",
+               "name": "AMQP 0.9.1 模型解析 · RabbitMQ in Chinese",
+               "type": "url",
+               "url": "http://rabbitmq.mr-ping.com/AMQP/AMQP_0-9-1_Model_Explained.html"
+            } ],
+            "date_added": "13240681451519000",
+            "date_modified": "13243085979862310",
+            "guid": "e414a04b-86c8-408c-8094-232485d1b08b",
+            "id": "290",
+            "name": "api",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240909851813323",
+               "guid": "356d20d9-820d-4a5e-a34a-90cde0ecbb2a",
+               "id": "296",
+               "name": "idea 弹出Servers certificate is not trusted 解决方法_minolk的博客-CSDN博客_servers certificate is not trusted",
+               "type": "url",
+               "url": "https://blog.csdn.net/minolk/article/details/83215438"
+            }, {
+               "date_added": "13241002524917902",
+               "guid": "8009c844-7b3f-4441-b4dd-870eccfb8b70",
+               "id": "310",
+               "name": "npm 安装出错 npm ERR! request to https://registry.npmjs.org/express failed, reason: unable to verify the first certificate - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/c915351fe54f"
+            }, {
+               "date_added": "13241157262525660",
+               "guid": "79e9946f-f296-4bc0-ad19-0da061d8886b",
+               "id": "323",
+               "name": "Springboot与shiro整合遇到的坑 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/29161098"
+            }, {
+               "date_added": "13241171725557841",
+               "guid": "c5c30b67-928f-4df2-8298-538983e26ec7",
+               "id": "327",
+               "name": "java-springboot+Shiro 发送请求获取subject后getPrincipal就为null了？——CSDN问答频道",
+               "type": "url",
+               "url": "https://ask.csdn.net/questions/763102"
+            }, {
+               "date_added": "13241243868305472",
+               "guid": "65a96f84-05a4-4bab-8321-e39f2f5847e7",
+               "id": "335",
+               "name": "springboot与shiro详细整合(redis缓存)_qq_42298793的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_42298793/article/details/107189621"
+            }, {
+               "date_added": "13241257873168253",
+               "guid": "d4b9818d-4b5c-4d82-9938-4575d7e0a539",
+               "id": "339",
+               "name": "shiro 登陆成功后subject依然为空_淡淡的博客-CSDN博客_the current subject is not authenticated. access d",
+               "type": "url",
+               "url": "https://blog.csdn.net/quanaianzj/article/details/83858575"
+            }, {
+               "date_added": "13241259991326878",
+               "guid": "5ea5711d-8849-4b5c-9a8e-62107cbffef5",
+               "id": "340",
+               "name": "SpringBoot使用Redis缓存Shiro的Session以及遇到的坑_madonghyu的博客-CSDN博客_shiro session写进redis成功, 但是redisutils 取不到",
+               "type": "url",
+               "url": "https://blog.csdn.net/madonghyu/article/details/81673795?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.opensearch_close&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.opensearch_close"
+            } ],
+            "date_added": "13240909871941879",
+            "date_modified": "13241406726767889",
+            "guid": "c9d3993e-5521-4cea-930f-71eacfd2cb54",
+            "id": "297",
+            "name": "error",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240683321426706",
+               "guid": "9f53cded-6a66-48f0-a27a-03b4142c9687",
+               "id": "293",
+               "name": "云服务器管理控制台",
+               "type": "url",
+               "url": "https://ecs.console.aliyun.com/?spm=5176.12818093.0.decs.488716d0JMhZTf#/home"
+            }, {
+               "date_added": "13240909401436564",
+               "guid": "8830a5a8-3040-44cb-9aba-9643c9911c18",
+               "id": "295",
+               "name": "我的收藏-个人中心-CSDN",
+               "type": "url",
+               "url": "https://i.csdn.net/#/uc/collection-list?type=1"
+            }, {
+               "date_added": "13240912930355972",
+               "guid": "f317a730-ecbb-4896-b83b-4918049d6f91",
+               "id": "299",
+               "name": "仓库服务",
+               "type": "url",
+               "url": "https://maven.aliyun.com/mvn/guide"
+            }, {
+               "date_added": "13240925851602413",
+               "guid": "0eda31a8-12cb-4fff-9de9-e84dad4c790c",
+               "id": "303",
+               "name": "云收藏 | 让收藏更简单",
+               "type": "url",
+               "url": "http://favorites.ren/index"
+            }, {
+               "date_added": "13241599015128089",
+               "guid": "18816c0f-c959-43ab-8a83-1064e3b4e24a",
+               "id": "362",
+               "name": "仓库 - dbdj1201 (yz1201) - 码云 Gitee.com",
+               "type": "url",
+               "url": "https://gitee.com/yz1201/projects"
+            } ],
+            "date_added": "13240681423621312",
+            "date_modified": "13241603885830755",
+            "guid": "ba6b083b-13c4-451b-bacc-62e8cc9da873",
+            "id": "286",
+            "name": "root",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13241061024720369",
+               "guid": "709d68f6-0e1a-4c2b-bf72-9a09bc665d05",
+               "id": "315",
+               "name": "ProcessOn - 我的文件",
+               "type": "url",
+               "url": "https://www.processon.com/diagrams"
+            }, {
+               "date_added": "13241434902200388",
+               "guid": "d7931781-ad2b-4b62-8618-b77644d3473c",
+               "id": "348",
+               "name": "JSON Web Tokens - jwt.io",
+               "type": "url",
+               "url": "https://jwt.io/"
+            }, {
+               "date_added": "13242045839472313",
+               "guid": "b9b61b7d-78f2-42ec-9cbd-f61e2ef081af",
+               "id": "404",
+               "name": "Text to ASCII Art Generator (TAAG)",
+               "type": "url",
+               "url": "http://patorjk.com/software/taag/#p=display&f=3D%20Diagonal&t=DBDJ1201%0A%0A"
+            }, {
+               "date_added": "13242184816378597",
+               "guid": "bd31a030-e7c0-4cec-971a-7c854eac8e2d",
+               "id": "406",
+               "name": "IT610在线工具",
+               "type": "url",
+               "url": "https://www.it610.com/tools/index/index.html"
+            }, {
+               "date_added": "13242703657625554",
+               "guid": "403d7ded-1b75-4805-af37-8bd204131a72",
+               "id": "443",
+               "name": "quartz/Cron/Crontab表达式在线生成工具-BeJSON.com",
+               "type": "url",
+               "url": "https://www.bejson.com/othertools/cron/"
+            } ],
+            "date_added": "13241061022840256",
+            "date_modified": "13242814465611215",
+            "guid": "f35afec1-e42b-4956-9bed-89f1ee96f965",
+            "id": "313",
+            "name": "tools",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13241409792389241",
+               "guid": "30ac79d6-31f8-49cc-b092-350f172dd262",
+               "id": "343",
+               "name": "【置顶】你好，欢迎来到SpringBoot中文社区 - 社区站务 - SpringBoot中文社区",
+               "type": "url",
+               "url": "https://springboot.io/t/topic/2005"
+            }, {
+               "date_added": "13241693567913095",
+               "guid": "2c7d6a70-b521-4983-9d67-69b125f5df78",
+               "id": "384",
+               "name": "Java 技术论坛 | Java 中文开发者社区",
+               "type": "url",
+               "url": "https://learnku.com/java"
+            }, {
+               "date_added": "13241841728983378",
+               "guid": "3992da91-e6c6-44e3-aa3d-602d6527a787",
+               "id": "395",
+               "name": "掘金",
+               "type": "url",
+               "url": "https://juejin.im/"
+            }, {
+               "date_added": "13242478511838622",
+               "guid": "b8649aa2-b4d4-4eb0-943f-45b561f2c40e",
+               "id": "426",
+               "name": "https://stackoverflow.com/users/oauth/github?code=97e8938272fefa18d578&state=%7b\"sid\"%3a1%2c\"st\"%3a\"59%3a3%3abbc%2c16%3a491a0cd2b565dda5%2c10%3a1598004899%2c16%3aa35f5fd4d04af3da%2cf3e2bae0dc47e256a03717cd6334df666334d5491d7889d47c0af4e55526f8b2\"%2c\"cdl\"%3anull%2c\"cid\"%3a\"01b478c0264a1fbd7183\"%2c\"k\"%3a\"GitHub\"%2c\"ses\"%3a\"50eea61c17f4430b99c028ce90463e8a\"%7d&s=50eea61c17f4430b99c028ce90463e8a",
+               "type": "url",
+               "url": "https://stackoverflow.com/users/oauth/github?code=97e8938272fefa18d578&state=%7b%22sid%22%3a1%2c%22st%22%3a%2259%3a3%3abbc%2c16%3a491a0cd2b565dda5%2c10%3a1598004899%2c16%3aa35f5fd4d04af3da%2cf3e2bae0dc47e256a03717cd6334df666334d5491d7889d47c0af4e55526f8b2%22%2c%22cdl%22%3anull%2c%22cid%22%3a%2201b478c0264a1fbd7183%22%2c%22k%22%3a%22GitHub%22%2c%22ses%22%3a%2250eea61c17f4430b99c028ce90463e8a%22%7d&s=50eea61c17f4430b99c028ce90463e8a"
+            }, {
+               "date_added": "13242878238873934",
+               "guid": "8ededb5a-e3cb-4a21-a12e-2102fd7b792b",
+               "id": "461",
+               "name": "MrBird",
+               "type": "url",
+               "url": "https://mrbird.cc/"
+            } ],
+            "date_added": "13241409816013882",
+            "date_modified": "13242879155887210",
+            "guid": "70c5766d-0017-4c65-8380-ebfaf1261c7f",
+            "id": "344",
+            "name": "community",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13241434918704604",
+            "date_modified": "13242704096983625",
+            "guid": "7a357f09-2b2a-425d-8030-fc6b31762dd6",
+            "id": "349",
+            "name": "utils",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13241521296214985",
+               "guid": "2721887e-d437-4d0e-b520-1cf002b9c6b0",
+               "id": "354",
+               "name": "Swagger UI",
+               "type": "url",
+               "url": "http://localhost:40923/swagger-ui.html"
+            }, {
+               "date_added": "13241684769850976",
+               "guid": "e6efb628-50cd-467f-9b0f-bc7187f8e4a9",
+               "id": "378",
+               "name": "47.94.4.93:9200",
+               "type": "url",
+               "url": "http://47.94.4.93:9200/"
+            }, {
+               "date_added": "13241684920647957",
+               "guid": "c20ab38b-e725-49d1-9287-8ca8549fa3e5",
+               "id": "379",
+               "name": "localhost:5601",
+               "type": "url",
+               "url": "http://localhost:5601/"
+            }, {
+               "date_added": "13241775243059381",
+               "guid": "173d2817-a64b-479e-b75b-59cd3b039ccb",
+               "id": "390",
+               "name": "RabbitMQ Management",
+               "type": "url",
+               "url": "http://localhost:15672/#/"
+            }, {
+               "date_added": "13242799946779416",
+               "guid": "f6019b4c-2349-45b3-a78e-01e49d288490",
+               "id": "452",
+               "name": "Dubbo Admin",
+               "type": "url",
+               "url": "http://localhost:7001/"
+            } ],
+            "date_added": "13241519760323266",
+            "date_modified": "13242808367545568",
+            "guid": "a12055d7-8220-403e-8817-1b523bf9d382",
+            "id": "352",
+            "name": "测试服更新",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240926517857135",
+               "guid": "624aea05-b7c4-4c45-8b47-07d940865417",
+               "id": "304",
+               "name": "超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！ - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/6844903823966732302"
+            }, {
+               "date_added": "13241086551600226",
+               "guid": "f6bef4dc-12ad-4c3d-8fea-85bb37f4ec20",
+               "id": "317",
+               "name": "Document",
+               "type": "url",
+               "url": "http://www.macrozheng.com/#/README"
+            }, {
+               "date_added": "13241580605793111",
+               "guid": "152f8398-d812-4cc4-9dfe-7b9aee556f10",
+               "id": "358",
+               "name": "从0到1，完整搭建Springboot开源博客项目eblog！ - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/6844904176938385421"
+            }, {
+               "date_added": "13242566032866307",
+               "guid": "52b0e09f-f170-47ed-8fad-f0effe72c680",
+               "id": "434",
+               "name": "springboot+mybatis+thymeleaf+docker构建的个人站点开源项目（集成了个人主页、个人作品、个人博客）_LuisChen的博客-CSDN博客_thymeleaf docker templates",
+               "type": "url",
+               "url": "https://blog.csdn.net/winter_chen001/article/details/80266339"
+            }, {
+               "date_added": "13242194271502604",
+               "guid": "efb9a592-7f04-4690-89e5-67e18388a3b2",
+               "id": "408",
+               "name": "CyC2018/MBlog: 微博系统实现",
+               "type": "url",
+               "url": "https://github.com/CyC2018/MBlog#%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE"
+            } ],
+            "date_added": "13240681461351221",
+            "date_modified": "13242705473616049",
+            "guid": "b4711e90-8e21-45aa-a718-0ab0e114971a",
+            "id": "291",
+            "name": "finger？",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13242298848095028",
+               "guid": "5b704553-a5b9-471b-b8f1-bd6d3dd5de59",
+               "id": "420",
+               "name": "Java开源框架中的设计模式以及应用场景 - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/6859160350692999181"
+            }, {
+               "date_added": "13242536432813549",
+               "guid": "424f3fa3-91e9-459c-92c0-fa4a6e11fa26",
+               "id": "430",
+               "name": "超详细的阿里字节Spring面试技术点总结（建议收藏） - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/6863338952183840775"
+            }, {
+               "date_added": "13242568717713017",
+               "guid": "febf6352-9e16-4867-8070-c1a98af0e611",
+               "id": "435",
+               "name": "JavaGuide/message-queue.md at master · Snailclimb/JavaGuide",
+               "type": "url",
+               "url": "https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/data-communication/message-queue.md"
+            }, {
+               "date_added": "13242705413211380",
+               "guid": "56df4993-be6a-4b29-9e4b-9e9aedf71412",
+               "id": "446",
+               "name": "深入理解MyBatis原理_我的程序人生(亦山札记)_亦山-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u010349169/category_9263284.html"
+            }, {
+               "date_added": "13242788933717886",
+               "guid": "d7c91734-245d-4e90-82ef-c22bd0dabe4c",
+               "id": "448",
+               "name": "Markdown 教程 | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/markdown/md-tutorial.html"
+            }, {
+               "date_added": "13242818406851344",
+               "guid": "39d6dceb-ba28-4808-8d36-164759d4c5e5",
+               "id": "458",
+               "name": "MyBatis源码阅读准备 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/e739afb8fe31"
+            }, {
+               "date_added": "13243068597449757",
+               "guid": "3e8c981b-4c52-4a83-bbbf-b49034382ee8",
+               "id": "465",
+               "name": "来吧！手写一个 RPC 框架。毕设/项目经验稳了！",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/Avq4JBT-6-Dxgl7q8M251Q"
+            }, {
+               "date_added": "13243069863324534",
+               "guid": "1a26d341-432d-4f62-961e-00cfeeb7664d",
+               "id": "466",
+               "name": "原理分析之二：框架整体设计 - 我的IT博客 - ITeye博客",
+               "type": "url",
+               "url": "https://www.iteye.com/blog/chenjc-it-1460990"
+            }, {
+               "date_added": "13243074751318760",
+               "guid": "50cc4e53-353a-4991-86c1-e2d89d6f6efe",
+               "id": "467",
+               "name": "Mybatis原理篇(目录) - 我的IT博客 - ITeye博客",
+               "type": "url",
+               "url": "https://www.iteye.com/blog/chenjc-it-1533394"
+            }, {
+               "date_added": "13243085968907144",
+               "guid": "691bec6a-bbf9-4562-8282-8919885d165b",
+               "id": "468",
+               "name": "SpringBoot自动化配置mybatis源码分析_超威半导体-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/micro_hz/article/details/106617214"
+            } ],
+            "date_added": "13241789909186588",
+            "date_modified": "13243085968907144",
+            "guid": "a1038b8e-0666-46d1-9965-38541c46fe0c",
+            "id": "392",
+            "name": "work_temp",
+            "type": "folder"
+         } ],
+         "date_added": "13194445360565531",
+         "date_modified": "13242705467205964",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13194445360565540",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13194445360565541",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
