@@ -1,0 +1,30 @@
+#gol config
+	  server {
+        listen       40923;
+        server_name  localhost;
+
+		location ~ /edu {
+			proxy_pass http://localhost:40999;
+		}
+		
+		location ~ /oss {
+			proxy_pass http://localhost:40998;
+		}
+		
+		location ~ /vod {
+			proxy_pass http://localhost:40997;
+			client_max_body_size 200m; 
+		}
+		
+		location ~ /cms {
+			proxy_pass http://localhost:40888;
+		}
+		
+		location ~ /msm {
+			proxy_pass http://localhost:40886;
+		}
+		
+		location ~ /ucenter {
+			proxy_pass http://localhost:8150;
+		}
+    }
