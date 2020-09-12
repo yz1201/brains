@@ -1,2 +1,2 @@
-docker run -p 6379:6379 --name redis -v /user/local/tools/docker/redis/data:/data -v /user/local/tools/docker/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf
+docker run -p 6379:6379 --name redis -v /usr/local/tools/docker/redis/data:/data -v /usr/local/tools/docker/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf --appendonly yes
 
